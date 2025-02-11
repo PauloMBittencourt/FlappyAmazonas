@@ -1,0 +1,2 @@
+draw_text(room_width/2, room_height/1.2, global.mensagem_fim_de_jogo + "tentou virar um peixe... Mas falhou")
+draw_text(room_width/2, room_height/1.2 + 20, "Precione R para reiniciar ou ENTER para voltar para a tela inicial")

@@ -1,0 +1,1 @@
+if (global.transicao_init) layer_sequence_create("Transicao", -1, -1, sqc_transicao_fim);
